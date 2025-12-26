@@ -1,0 +1,19 @@
+# ========================================
+# Teacher Timetable Hub - Requirements
+# ========================================
+# Python Version: 3.8 or higher
+# Install using: pip install -r requirements.txt
+
+# Django Web Framework
+Django==5.2.5
+
+# PDF Processing - Extract text and tables from PDF files
+pdfplumber>=0.11.0
+
+# AI/LLM Integration - Groq API for chatbot functionality
+groq>=0.8.0
+
+# Environment Variables Management - For API keys and secrets
+python-dotenv>=1.0.0
+
+
